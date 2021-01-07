@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Contact</title>
-   
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-email: katja.tikkanen@edu.taitotalo.fi
+<h1>Contact</h1>
+<p>email: katja.tikkanen@edu.taitotalo.fi</p>
 
-
-	</head>
-	<body>
-
+</body>
+</html>
