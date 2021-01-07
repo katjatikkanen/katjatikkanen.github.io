@@ -1,3 +1,13 @@
-<li><a href="/contact">Contact</a></li>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Contact</title>
+    
+    <li><a href="/contact">Contact</a></li>
 
 email: katja.tikkanen@edu.taitotalo.fi
+
+
+	</head>
+	<body>
+
